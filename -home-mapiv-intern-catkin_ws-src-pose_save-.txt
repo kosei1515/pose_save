@@ -1,1 +1,0 @@
-/home/mapiv-intern/catkin_ws/src/pose_save/README.md
