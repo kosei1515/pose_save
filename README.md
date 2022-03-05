@@ -1,4 +1,6 @@
 ## pose save node
 
-このノードはAUOTWAREから取得したndt_poseとekf_poseをcsvファイルに保存スノードである
+このノードはAUOTWAREから取得したndt_poseとekf_poseをcsvファイルに保存するノードです
+
+
 
